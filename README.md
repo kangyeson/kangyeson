@@ -1,15 +1,27 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=👋%20Hi,%20I'm%20Kang%20Ye%20Son%&fontSize=50&fontColor=ffffff&fontAlignY=40)
 
-### ⚡ Skill
+<h3 align="center">⚡ Skill ⚡</h3>
 
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<br>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-ff651d?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS3-02ade9?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
+</p>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 
 
-![Yeson's github stats](https://github-readme-stats.vercel.app/api?username=kangyeson&theme=vue&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangyeson&layout=compact&card_width=445&custom_title=most%20used%20languages%20&show_icons=true&theme=vue)
+[![Yeson's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangyeson&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
