@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=👋%20Hi,%20I'm%20Kang%20Yeon%&fontSize=50&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=👋%20Hi,%20I'm%20Kang%20Yeson%&fontSize=50&fontColor=ffffff&fontAlignY=40)
 
 <h3 align="center">⚡ Skill ⚡</h3>
 
